@@ -1,0 +1,4 @@
+Response details received are below:
+Response Status Code:200
+Response Status Line: HTTP/1.1 200 OK
+Response Time: 638

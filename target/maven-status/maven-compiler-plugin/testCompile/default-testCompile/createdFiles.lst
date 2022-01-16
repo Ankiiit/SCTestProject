@@ -1,0 +1,4 @@
+steps/CommonSteps.class
+steps/RegistrationSteps.class
+testRunner/TestRunner.class
+steps/VotingSteps.class
